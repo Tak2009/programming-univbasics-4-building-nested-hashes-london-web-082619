@@ -1,5 +1,5 @@
 def base_hash
-	hash = {1:2}
+	hash = {railroads: 2}
 end
 
 def monopoly_with_second_tier
